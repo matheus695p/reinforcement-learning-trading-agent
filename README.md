@@ -1,4 +1,4 @@
-# Roadmap for regression problems
+# reinforcement-learning-trading-agent
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 A trading agent:
