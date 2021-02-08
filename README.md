@@ -15,3 +15,12 @@ $ cd reinforcement-learning-trading-agent
 $ echo instalar los requirements
 $ pip install -r requirements.txt
 ```
+
+```sh
+│   README.md
+│   reinforcement_learning_trading.py
+│   requirements.txt
+│
+└───src
+        reinforcement_learning_module.py
+```
